@@ -1,6 +1,7 @@
 # Author : InferiorAK
 # Language : Python 3.12.3
 # Date : 14 Aug 2024 9:43 PM
+# Dynamic Clock
 
 import time
 
